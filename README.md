@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently study on **Universitas brawijaya**
 - 🌱 I’m currently learning java and python
 - 📫 How to reach me: [**@meddfaiz**](https://www.instagram.com/meddfaiz_/#)
+
 ![omg](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5ems4azZwOXZobGE3NmgzYnFvOHlvcGE4aHc0cGZxZWJkN21pYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gNdVn4gGe5jC8/giphy.gif)
