@@ -33,7 +33,7 @@
 ![https://instagram.com/meddfaiz_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/muhammad-faiz-9129bb372](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ##### My Github Stats
-![Muhammad Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadfaiz&show_icons=true&theme=tokyonight)--> 
+<!--![Muhammad Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadfaiz&show_icons=true&theme=tokyonight)--> 
 
 ## Hello! i'm Muhammad Faiz 👋
 
